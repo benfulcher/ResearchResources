@@ -5,6 +5,10 @@
 layout: home
 ---
 
+This is a collection of resources that I find useful to collate for myself and to point students to.
+I would very much appreciate any feedback or additions, either by email or via pull requests.
+You can see my website [here](http://www.benfulcher.com).
+
 <!-- [Basics]({{ site.baseurl }}{% link pages/Basics.md %})
 
 [Reproducible Science]({{ site.baseurl }}{% link pages/ReproducibleScience.md %})
