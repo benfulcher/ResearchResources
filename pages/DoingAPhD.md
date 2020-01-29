@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Doing a PhD"
+title: "PhD"
 permalink: "/DoingAPhD/"
 categories: PhD advice
 ---
