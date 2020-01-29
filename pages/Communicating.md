@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Academic posters"
-categories: advice posters
+layout: page
+title: "Communicating"
+permalink: /communicating/
 ---
 
 # Making posters
