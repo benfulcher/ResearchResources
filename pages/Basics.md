@@ -15,9 +15,6 @@ Plotting:
 * [Visual vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 * [Data visualization rules](https://www.data-to-viz.com/caveats.html)
 
-Writing:
-* [Writing an abstract](https://www.nature.com/documents/nature-summary-paragraph.pdf)
-
 Time-series Analysis:
 * [Takens Embedding](https://www.youtube.com/watch?v=6i57udsPKms)
 
