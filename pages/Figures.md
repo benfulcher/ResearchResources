@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Making figures"
+layout: page
+title: "Figures"
 categories: material
 ---
 
