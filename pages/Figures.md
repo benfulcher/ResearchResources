@@ -16,7 +16,7 @@ You should select the color palette for your figures carefully, with a priority 
 Be especially wary of common forms of [colorblindness](https://davidmathlogic.com/colorblind/), and giving some thought to how readable figures are in greyscale.
 When using a continuous color scale, avoiding the colormap [`jet`](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/) will prevent incurring the wrath of passionate [jet fighters](https://github.com/smsaladi/jetfighter), who will direct you to [automatically 'fix'](https://fixthejet.ecrlife.org/) your colormap.
 
-
+* If you love a good :rainbow: rainbow :rainbow:, the [turbo colormap](https://gist.github.com/mikhailov-work/ee72ba4191942acecc03fe6da94fc73f) is a solid alternative to jet.
 * Pick from some [classics](http://colorbrewer2.org/).
 * Algorithmically [make your own](http://vrl.cs.brown.edu/color).
 * Another [algorithmic one](https://medialab.github.io/iwanthue/).
