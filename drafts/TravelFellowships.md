@@ -1,6 +1,4 @@
 ---
-layout: home
-title: "career"
 ---
 
 Travel and Fellowships:

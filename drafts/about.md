@@ -1,7 +1,5 @@
 ---
-layout: home
-title: About
-permalink: /about/
+
 ---
 
 This is a collection of resources that I find useful to collate for myself and to point students to.
