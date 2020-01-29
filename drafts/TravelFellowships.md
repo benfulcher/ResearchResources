@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "career"
-date: "2019-05-14 13:58:20 +1000"
 ---
 
 Travel and Fellowships:
