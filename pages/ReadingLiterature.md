@@ -5,10 +5,10 @@ permalink: /ReadingLiterature/
 categories: reading
 ---
 
-Some [strategies](http://www.sciencemag.org/careers/2016/11/how-keep-scientific-literature) on keeping up with the literature.
+* A nice [science article](http://www.sciencemag.org/careers/2016/11/how-keep-scientific-literature) with strategies for keeping up with the literature.
 
 ### The buzz
-Twitter
+If your field has a strong Twitter scene, and they are disciplined enough to avoid distracting personal posts, this can be an excellent way to find topical literature in your field.
 
 ### Direct from the journal's mouth: RSS feeds
 Journals have RSS feeds that push new articles into an RSS reader.
