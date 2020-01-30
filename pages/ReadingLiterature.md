@@ -13,11 +13,13 @@ Twitter
 ### Direct from the journal's mouth: RSS feeds
 Journals have RSS feeds that push new articles into an RSS reader.
 This can be a good way to stay on top of new articles as they are published in a place that doesn’t fill up your inbox.
-You can also create your own custom RSS feeds (e.g., in Scopus) to track authors you’re interested in, or sets of keywords most relevant to your research.
+You can also create your own custom RSS feeds (e.g., in [Scopus](https://www.scopus.com/search/form.uri?display=basic)) to track authors you’re interested in, or sets of keywords most relevant to your research.
 
 [Feedly](https://feedly.com/) is a good free choice to manage your RSS feeds. You can access the results either online, or via a native app.
-On Mac/iOS, [Reeder](http://reederapp.com/) is a good choice; [others](http://thesweetsetup.com/apps/best-rss-reader-os-x/) exist.
+
+On Mac/iOS, [Reeder](http://reederapp.com/) is a really nice one; [other options](http://thesweetsetup.com/apps/best-rss-reader-os-x/) also exist.
 
 ### Reference managers
-* [Papers](http://papersapp.com) is a nice, but not free, Mac software for reading and keeping a thorough bibliography.
-* [Mendeley](https://www.mendeley.com) is a free alternative.
+* [Zotero](https://www.zotero.org/) and [Mendeley](https://www.mendeley.com) are decent, free reference managers.
+* [Readcube Papers](https://www.papersapp.com/) is clunky and still quite buggy, but has a nice direct *add to library* feature from the web (but charges a regular fee).
+ <!-- * [Papers](http://papersapp.com) was a nice, but no longer supported, Mac software for reading and keeping a thorough bibliography. -->
