@@ -4,6 +4,17 @@ title: "Coding"
 permalink: /Coding/
 ---
 
+### Writing code
+You must use [version control](pages/ReproducibleScience.md).
+
+Full-featured text editors are necessary for efficient coding.
+I use [Atom](https://atom.io/) which has some nice features:
+* [Hydrogen](https://nteract.gitbooks.io/hydrogen/) and a python kernel for interactively running python code.
+* [Markdown previews](https://atom.io/packages/markdown-preview) are essential for writing markdown.
+* Natural git and github integration mean that you never need to leave the editor to do your basic git. There are also some nice keyboard shortcuts in [git+](https://atom.io/packages/git-plus).
+* [Time machine](https://atom.io/packages/git-time-machine) lets you interactively view the history of each file in your repository.
+* The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts).
+
 ### Cluster computing
 * ***ALL*** code on a cluster should be a clone of a git repository on Github.
   You should have another clone on a local computer that you can edit, and keep all versions synchronized through push/pull.
