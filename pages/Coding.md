@@ -5,8 +5,9 @@ permalink: /Coding/
 ---
 
 ### Writing code
-You must use [version control](pages/ReproducibleScience.md).
+You must use [version control](ReproducibleScience.html).
 
+#### Text editors
 Full-featured text editors are necessary for efficient coding.
 I use [Atom](https://atom.io/) which has some nice features:
 * [Hydrogen](https://nteract.gitbooks.io/hydrogen/) and a python kernel for interactively running python code.
@@ -15,12 +16,20 @@ I use [Atom](https://atom.io/) which has some nice features:
 * [Time machine](https://atom.io/packages/git-time-machine) lets you interactively view the history of each file in your repository.
 * The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts).
 
+#### Terminals
+* On Mac, [iTerm2](https://iterm2.com/) is free and far superior to the in-built terminal app.
+* :fire: If you are fancy, you can change to using the [fish shell](https://fishshell.com/), which has lots of cool features.
+* :fire: If you want to set up your Mac with lots of cool terminal superpowers, [look no further](https://github.com/ghaiklor/iterm-fish-fisher-osx).
+
 ### Cluster computing
 * ***ALL*** code on a cluster should be a clone of a git repository on Github.
   You should have another clone on a local computer that you can edit, and keep all versions synchronized through push/pull.
   You never want to have any risk of versions of the same code becoming out of synch.
+* As well on your local computer, you should take the time to set up an [ssh-key](https://help.github.com/articles/generating-an-ssh-key/) for Github on the server, to avoid typing in your password each time.
 * You should have a nice interactive way of getting data/outputs to/from the server.
   The best is [Transmit](https://panic.com/transmit/); free alternatives are [Cyberduck](https://cyberduck.io/), or [FileZilla](https://filezilla-project.org/).
+* You should set up an [ssh key](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2) for each server you use regularly, to avoid typing in your password every time you connect.
+* To avoid typing in the full username and servername every time you connect to your server, you set up an [ssh config file](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/).
 
 ## Languages
 
