@@ -9,6 +9,7 @@ categories: reading
 
 ### The buzz
 If your field has a strong Twitter scene, and they are disciplined enough to avoid distracting personal posts, this can be an excellent way to find topical literature in your field.
+Here's an [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) for how to get started on twitter as a scientist.
 
 ### Direct from the journal's mouth: RSS feeds
 Journals have RSS feeds that push new articles into an RSS reader.
