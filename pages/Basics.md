@@ -18,6 +18,9 @@ Plotting:
 Time-series Analysis:
 * [Takens Embedding](https://www.youtube.com/watch?v=6i57udsPKms)
 
+Learning brain anatomy:
+* Interactive guide to brain regions and their function is in the [Virtual Brain Atlas](https://www.brainsimulation.org/atlasweb/).
+
 ### In-person training
 
 * [Free training courses](https://informatics.sydney.edu.au/training/) run by Sydney Informatics Hub, NSW.
