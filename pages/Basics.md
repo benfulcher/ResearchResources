@@ -8,6 +8,9 @@ categories: material
 Dimensionality reduction:
 * [Interactive tutorial on PCA](http://setosa.io/ev/principal-component-analysis/)
 
+Multiple hypothesis testing:
+* [Brief explanation using R](https://www.stat.berkeley.edu/~mgoldman/Section0402.pdf)
+
 Linear Algebra:
 * [Introduction to eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
