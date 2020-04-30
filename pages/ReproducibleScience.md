@@ -47,5 +47,7 @@ Whenever you produce an output figure or statistic, you should have a clear way 
 
 ## Sharing data
 
-* I don't really like the interface, but I typically store large data files on [figshare](https://figshare.com), which provides a citable DOI to your data.
+* [Zenodo](https://zenodo.org/signup/) is my favorite way to upload scientific datasets, providing a citable DOI to your data.
+* [figshare](https://figshare.com) is a poorly designed alternative, but also provides a citable DOI to your data.
+* Another option is [Dryad](https://datadryad.org/stash).
 * To pick the right data repository for your paper, you can use the registry of research data repositories: [re3data](https://www.re3data.org/) or [FAIRsharing](https://fairsharing.org/).

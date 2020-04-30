@@ -11,7 +11,4 @@ Places like twitter can make things worse (as people publicize successes), but c
 
 #### Mental Wellbeing Support Line
 
-At Sydney University, there is a 24/7 Mental Wellbeing Support Line.
-
-Phone: 1300 474065 (accessible within Australia)
-SMS: 0488 884 429 (SMS chat option).
+At Sydney University, there is lots of [support for student health](https://www.sydney.edu.au/students/health-wellbeing.html), including [mental health](https://www.sydney.edu.au/students/health-wellbeing/mental-health.html), with [counselling services](https://www.sydney.edu.au/students/counselling-and-mental-health-support.html) and a 24/7 Mental Wellbeing Support Line.
