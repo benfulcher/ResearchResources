@@ -1,12 +1,9 @@
 ---
 layout: page
-title: "Reproducible science"
+title: "Reproducible Science"
 permalink: /ReproducibleScience/
 categories: material
 ---
-
-
-## Reproducible Science
 
 Many of us are in science because we want to drive progress.
 The goals of driving scientific progress are undoubtedly enhanced by greater sharing, and modern technology gives us the mechanisms to share our science better, and for the computational analyses we do, even precisely share every step.
@@ -42,7 +39,7 @@ These repositories can also be uploaded to a server to allow collaboration on co
 ### Using version control
 
 
-#### Graphical interface
+#### Graphical Interface
 
 Version control is much easier with a graphical interface than in the command-line.
 This is the place to start--you can do everything you need, and visually see the whole history of your code base.
@@ -72,8 +69,7 @@ Then you can share what you've done so others can help you develop it through co
 Instructions are [here](https://help.github.com/articles/generating-an-ssh-key/).
 This means that you should use the ssh (not http) version of the Github repository reference: `git clone git@github.com:benfulcher/TestGitRepository.git`
 * You should also set up integration with a text editor for coding is perhaps the most useful.
-  I recommend [Atom :atom:](https://atom.io/); [Microsoft VS Code](https://code.visualstudio.com/) is a popular alternative.
-
+  I recommend [Atom](https://atom.io/); [Microsoft VS Code](https://code.visualstudio.com/) is a popular alternative.
 
 #### Workflow
 
