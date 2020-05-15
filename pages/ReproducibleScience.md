@@ -30,6 +30,11 @@ The first step is trusting yourself and adopting reproducible science gives you 
   - The mindset of working reproducibly forces you to work to a much higher standard that pushes your science forward.
   - It also allows you to go back to your analyses later down the track and be able to very quickly understand what you did when you want to do something new based on your past work (or direct someone else to).
 
+There is a tendency to go all or nothing (in many causes, from veganism to dieting), but to make meaningful, lasting change we have to encourage small changes in the right direction.
+That is, any move in the direction towards open and reproducible science (the two go hand-in-hand) is a good way to build better habits and over time the practice will become second-nature.
+For example, it is optimal to move from a closed coding language like Matlab to python or R or Julia (where anyone can run your code without relying on a proprietary licence and all underlying code can be verified and improved over time by the community).
+But if you code in Matlab, making your code available and reproducible is a very valuable first step.
+
 ## Reproducible Coding
 
 When coding, you’re often changing bits of code incrementally, or producing results that rely on a particular version of code.
