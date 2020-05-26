@@ -35,6 +35,12 @@ That is, any move in the direction towards open and reproducible science (the tw
 For example, it is optimal to move from a closed coding language like Matlab to python or R or Julia (where anyone can run your code without relying on a proprietary licence and all underlying code can be verified and improved over time by the community).
 But if you code in Matlab, making your code available and reproducible is a very valuable first step.
 
+## Slides
+
+:thought_balloon: :thought_balloon: :thought_balloon:
+__I gave a short overview talk on implementing reproducible science practices; my slides are [here](https://figshare.com/articles/OHBM_Australia_A_practical_guide_to_working_reproducibly/12367667)__.
+:thought_balloon: :thought_balloon: :thought_balloon:
+
 ## Reproducible Coding
 
 When coding, you’re often changing bits of code incrementally, or producing results that rely on a particular version of code.
@@ -91,3 +97,9 @@ A good way to do this is to describe all your analyses in a markdown file, like 
 * [figshare](https://figshare.com) is a poorly designed alternative, but also provides a citable DOI to your data.
 * Another option is [Dryad](https://datadryad.org/stash).
 * To pick the right data repository for your paper, you can use the registry of research data repositories: [re3data](https://www.re3data.org/) or [FAIRsharing](https://fairsharing.org/).
+
+## Getting involved
+
+* Join the [Australia/New Zealand Open Research Network](https://www.anzopenresearch.org/), including the [Sydney chapter](https://sydneyopenresearch.org/).
+* Join a [Reproducibilitea](https://reproducibilitea.org/) journal club.
+* Follow some open science twitter accounts, e.g., this [open access Aus/NZ advocacy](https://twitter.com/openaccess_anz).
