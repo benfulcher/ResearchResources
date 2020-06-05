@@ -41,6 +41,17 @@ But if you code in Matlab, making your code available and reproducible is a very
 __I gave a short overview talk on implementing reproducible science practices; my slides are [here](https://figshare.com/articles/OHBM_Australia_A_practical_guide_to_working_reproducibly/12367667)__.
 :thought_balloon: :thought_balloon: :thought_balloon:
 
+## Making scientific writing accessible
+
+On submission to a journal, you should make it part of your workflow to submit to a preprint server, such as [arXiv](https://arxiv.org/), [bioRxiv](https://www.biorxiv.org/), or on the [Open Science Framework](https://osf.io/).
+These give you a DOI for your work (a unique key that allows others to cite it), and allow more rapid and wide sharing of science, as there is no barrier to others reading your work.
+Make sure you update the text if there are any edits involved in the review process.
+This is important to ensure that these open versions of closed papers accurately reflect the journal version (in content if not formatting).
+
+Services like [unpaywall](https://unpaywall.org/) will automatically point people to these open versions of scientific articles.
+It's a good idea to install the unpaywall browser add-on.
+
+
 ## Reproducible Coding
 
 When coding, you’re often changing bits of code incrementally, or producing results that rely on a particular version of code.

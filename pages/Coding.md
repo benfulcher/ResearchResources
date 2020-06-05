@@ -5,7 +5,11 @@ permalink: /Coding/
 ---
 
 ### Writing code
-You must use [version control](ReproducibleScience.html).
+You must use version control, as described [here](ReproducibleScience.html).
+
+#### Coding better
+
+* Some helpful coding tips (mostly Matlab) are on this [medium blog](https://medium.com/@neuraljojo).
 
 #### Text editors
 Full-featured text editors are necessary for efficient coding.
