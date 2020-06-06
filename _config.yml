@@ -22,7 +22,7 @@ title: Doing Research
 email: ben.d.fulcher@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Collected academic resources for researchers and students.
-baseurl: "ResearchResources" # the subpath of your site, e.g. /blog
+baseurl: "/ResearchResources" # the subpath of your site, e.g. /blog
 url: "https://benfulcher.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bendfulcher
 github_username: benfulcher
