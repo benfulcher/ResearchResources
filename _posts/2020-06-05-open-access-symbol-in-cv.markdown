@@ -22,4 +22,4 @@ and then you can just use the `\oasymbol` throughout your paper (defaults to the
 
 Pretty happy with how it worked out, in giving easy, direct access to my work for anyone reading my CV:
 
-![Screenshot of open access symbol in CV]({{ site.baseurl }}/assets/OAsymbol_CV.png)
+![Screenshot of open access symbol in CV]({{ site.url }}/{{ site.baseurl }}/assets/OAsymbol_CV.png)
