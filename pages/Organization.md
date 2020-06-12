@@ -24,14 +24,15 @@ Some tips:
 * Copy the code of the functions and their inputs that you use to generate your outputs, to allow you to reproduce what you've done. Works best with version control.
 * Tagging notes allows you to prioritize your time between tasks across multiple projects that require attention. I use `1-Now`, `2-Next`, `3-Soon`.
 
-## Keeping track of all projects
+## Keeping track of your projects
+
 [Trello](https://trello.com/) is good for keeping track of multiple tasks.
 I always keep a main Trello board of all scientific projects I'm working on, organized across boards like: `backburner`, `student`, `current`, through to `submitted`, `in review`, and `published`.
 
-## Dividing tasks across a team
+<!-- ## Dividing tasks across a team
 
 When dividing tasks across a team, other collaborative software can help.
-[Asana](https://asana.com/) is another alternative that is better suited to assigning tasks with due dates across members of a team, and [Slack](https://slack.com/) is another popular one, despite being quite disruptive to focus.
+[Asana](https://asana.com/) is another alternative that is better suited to assigning tasks with due dates across members of a team, and [Slack](https://slack.com/) is another popular one, despite being quite disruptive to focus. -->
 
 
 <!--
