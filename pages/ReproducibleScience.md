@@ -61,6 +61,7 @@ You can acknowledge your efforts to make your work accessible by marking your op
 ### Journals
 To get your work peer-reviewed, you need to submit it to a journal.
 To make your work open access, most journals are for-profit and charge >$1000 to publish your work (too much of which ends up being profit for the publishing company).
+
 Some options:
 * [JOSS](https://joss.theoj.org/). For open-source software: free to publish.
 * [NBDT](https://nbdt.scholasticahq.com/). Neurons, Behavior, Data Analysis and Theory. For computational neuroscience (data, behavior, theory, analysis, modeling). $10 to publish (arXiv overlay).
@@ -119,6 +120,9 @@ Whenever you produce an output figure or statistic, you should have a clear way 
 
 Code to reproduce every analysis and figure in your paper should be easy for others to access and use.
 A good way to do this is to describe all your analyses in a markdown file, like the online-rendered `README.md` file, where you work through the exact steps to reproduce every analysis in your paper, and embed the outputs.
+
+When you're happy with your code, you should version it with a DOI to keep a preserved snapshot that cannot be modified/deleted.
+It's actually really easy to do this, by linking zenodo to your Github (and you get a nice DOI logo on your repo!): [instructions here](https://guides.github.com/activities/citable-code/).
 
 ## Sharing data
 
