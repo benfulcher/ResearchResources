@@ -15,6 +15,9 @@ categories: material
   Neurons, Behavior, Data Analysis and Theory.
   For computational neuroscience (data, behavior, theory, analysis, modeling).
   $10 to publish (arXiv overlay).
+* [MELBA](https://www.melba-journal.org/).
+  The Journal of Machine Learning for Biomedical Imaging.
+  (~free?).
 * [Brain Multiphysics](https://www.journals.elsevier.com/brain-multiphysics/).
   $650/article in 2020 (increases up to double this in 2022).
 * [eLife](https://elifesciences.org/), $2.5k.
