@@ -1,11 +1,16 @@
 ---
+layout: page
+title: "Career"
+permalink: /career/
 ---
 
 # Career
 
 ## Looking for jobs
 
-Check out [jobRxiv](https://jobrxiv.org).
+* Job postings at [jobRxiv](https://jobrxiv.org).
+* Computational neuroscience mailing list has good ones: [here](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro).
+
 
 ## Fellowships
 
