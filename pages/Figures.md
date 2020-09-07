@@ -10,6 +10,8 @@ categories: material
 * Aesthetic touch-ups can be made after exporting your figure, for vector graphics ([Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Affinity Designer](https://affinity.serif.com/en-gb/), or the free [Inkscape](https://inkscape.org/)) or bitmap graphics ([Adobe Photoshop](https://www.adobe.com/au/products/photoshop.html), or the free [GIMP](https://www.gimp.org/)).
 * Label your axes clearly, with units of measurement in parentheses.
 
+[Here](https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view) is a great presentation by Dan Larremore on how to present data clearly.
+
 ### Color palettes
 
 You should select the color palette for your figures carefully, with a priority towards making the key pieces of science that you're trying to communicate as clear as possible.
@@ -23,6 +25,7 @@ When using a continuous color scale, avoiding the colormap [`jet`](https://jakev
 * Another way to [make your own](https://jdherman.github.io/colormap/).
 
 ### Plotting distributions
+
 For data exploration, you should always avoid plots that make assumptions about the distribution of values (like those that plot the mean plus/minus standard deviation).
 Alternatives include violin plots:
 
