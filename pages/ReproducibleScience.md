@@ -86,6 +86,7 @@ Version control is much easier with a graphical interface than in the command-li
 This is the place to start--you can do everything you need, and visually see the whole history of your code base.
 
 * I recommend the free and excellent [SourceTree](https://www.sourcetreeapp.com).
+* [GitKraken](https://www.gitkraken.com/) is also really good.
 * An alternative is [Github Desktop](https://desktop.github.com).
 
 #### Command-line git

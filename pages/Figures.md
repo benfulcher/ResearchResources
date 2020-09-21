@@ -20,6 +20,7 @@ When using a continuous color scale, avoiding the colormap [`jet`](https://jakev
 
 * If you love a good :rainbow: rainbow :rainbow:, the [turbo colormap](https://gist.github.com/mikhailov-work/ee72ba4191942acecc03fe6da94fc73f) is a solid alternative to jet.
 * Pick from some [classics](http://colorbrewer2.org/).
+* Here is a good way to select [nice color palettes](https://learnui.design/tools/data-color-picker.html).
 * Algorithmically [make your own](http://vrl.cs.brown.edu/color).
 * Another [algorithmic one](https://medialab.github.io/iwanthue/).
 * Another way to [make your own](https://jdherman.github.io/colormap/).
