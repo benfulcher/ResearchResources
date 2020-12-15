@@ -48,7 +48,10 @@ These give you a DOI for your work (a unique key that allows others to cite it),
 Make sure you update the text if there are any edits involved in the review process.
 This is important to ensure that these open versions of closed papers accurately reflect the journal version (in content if not formatting).
 
+For extra impact, you should cross-reference your work on [papers with code](https://portal.paperswithcode.com/).
+
 ### Unpaywall
+
 * Services like [unpaywall](https://unpaywall.org/) will automatically point people to these open versions of scientific articles.
 * It's a good idea to install the unpaywall browser add-on.
 * You need the [`biblatex-ext`](https://ctan.org/pkg/biblatex-ext) package and the extra functionality of the open access options: `biblatex-ext-oa.sty`.
@@ -59,6 +62,7 @@ This is important to ensure that these open versions of closed papers accurately
 You can acknowledge your efforts to make your work accessible by marking your openly accessible outputs in your CV, as described in [this blog post]({% post_url 2020-06-05-open-access-symbol-in-cv %}).
 
 ### Journals
+
 To get your work peer-reviewed, you need to submit it to a journal.
 To make your work open access, most journals are for-profit and charge >$1000 to publish your work (too much of which ends up being profit for the publishing company).
 

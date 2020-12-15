@@ -12,6 +12,7 @@ You must use version control, as described [here](ReproducibleScience.html).
 * Some helpful coding tips (mostly Matlab) are on this [medium blog](https://medium.com/@neuraljojo).
 
 #### Text editors
+
 Full-featured text editors are necessary for efficient coding.
 I use [Atom](https://atom.io/) which has some nice features:
 * [Hydrogen](https://nteract.gitbooks.io/hydrogen/) and a python kernel for interactively running python code.
@@ -21,11 +22,13 @@ I use [Atom](https://atom.io/) which has some nice features:
 * The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts).
 
 #### Terminals
+
 * On Mac, [iTerm2](https://iterm2.com/) is free and far superior to the in-built terminal app.
 * :fire: If you are fancy, you can change to using the [fish shell](https://fishshell.com/), which has lots of cool features.
 * :fire: If you want to set up your Mac with lots of cool terminal superpowers, [look no further](https://github.com/ghaiklor/iterm-fish-fisher-osx).
 
 ### Cluster computing
+
 * ***ALL*** code on a cluster should be a clone of a git repository on Github.
   You should have another clone on a local computer that you can edit, and keep all versions synchronized through push/pull.
   You never want to have any risk of versions of the same code becoming out of synch.
@@ -38,11 +41,13 @@ I use [Atom](https://atom.io/) which has some nice features:
 ## Languages
 
 ### Python
+
 Python is a free and flexible coding environment.
 It is open source and is used by a large and supportive scientific community.
 Being a substantial general coding language, the act of coding in python encourages good practice.
 
 ### Matlab
+
 Matlab is great for science, because of the ease of turning data into interactive plots through just a few simple commands.
 This allows you to quickly get a deep feel for your data, and the documentation and depth of functionality through toolboxes is excellent.
 Unfortunately, it is not open source (you don't know what's happening under the hood) and you have to pay to use it (only those who have paid access can use your code if you share it).
