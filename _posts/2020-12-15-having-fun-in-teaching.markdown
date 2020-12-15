@@ -10,7 +10,9 @@ If you were to ask an average citizen to think of a group of academics, they mig
 
 Presenting information with a primary tone of seriousness underestimates the motivational needs of the audience, and inhibits clear communication.
 
-Of course this issue plagues the classroom in exactly the same way—over-seriousness can disengage interested students. This is especially true when those students could be ‘attending’ classes within the same four walls as those in which they sleep. In such environments, the motivational needs of a student to engage with the material they’re interested in is even more pressing to get right.
+Of course this issue plagues the classroom in exactly the same way: over-seriousness can disengage interested students.
+This is especially true when those students could be ‘attending’ classes within the same four walls as those in which they sleep.
+In such environments, the motivational needs of a student to engage with the material they’re interested in is even more pressing to get right.
 
 Whatever the environment, a good communicator/teacher is an expert at infusing clear explanations of difficult topics while keeping their audience motivated through a range of tones and styles.
 
@@ -28,9 +30,12 @@ Compared to pure information transmission, this was received really well by stud
 
 ## Exam
 
-I allowed students to vote on where they wanted to have their exam on interdisciplinary physics ‘set’. Last semester, they voted on a “Panda Sanctuary”, and this year setting the exam problems at a University bar was the majority choice (e.g., beating out the Flintstones universe). It is then my challenge as a teacher to formulate a set of problems in the desired setting, and come good on my promise that physics skills are relevant and useful to solve problems in any setting.
+I allowed students to vote on where they wanted to have their exam on interdisciplinary physics ‘set’.
+Last semester, they voted on a “Panda Sanctuary”; the majority choice in this semester was to set the exam problems at a University bar (e.g., beating out the Flintstones universe).
+It is then my challenge as a teacher to formulate a set of problems in the desired setting, and come good on my promise that physics skills are relevant and useful to solve problems in any setting.
 
-The students really enjoy this process—they build community through the process of coming up with candidate settings (chatting on canvas) and they students things like “can’t wait to see what you’ve cooked up for us in the exam!”. So while the exam is still a time-pressured assessment, infusing some creativity in the problems, and having given the students some ownership over the problems I think went some way towards easing the stresses of a typical exam.
+The students really enjoy this process; they build community through the process of coming up with candidate settings (chatting on canvas) and they said things like “can’t wait to see what you’ve cooked up for us in the exam!”.
+So while the exam is still a time-pressured assessment, infusing some creativity in the problems and having given the students some ownership over the exam, I think went some way towards easing the stresses (compared to a typical exam).
 
 
-We’ll see whether the students pick up on these strategies in their feedback, but I will continue to play with addressing an under-appreciation of how important it is to infuse fun and humor into the learning process, especially when the topics involved are conventionally theoretical/dry.
+We’ll see whether the students noticed these strategies in their feedback, but I will continue to play with addressing an under-appreciation of how important it is to infuse fun and humor into the learning process, especially when treating theoretical (conventionally dry) topics.
