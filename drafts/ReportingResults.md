@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "Reporting"
-permalink: /ReportingResults/
+
 ---
+
+<!-- layout: page
+title: "Reporting"
+permalink: /ReportingResults/ -->
 
 ## Statistics
 
