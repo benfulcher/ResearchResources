@@ -5,7 +5,11 @@ permalink: /journals/
 categories: material
 ---
 
+To get your work peer-reviewed, you need to submit it to a journal.
+To make your work open access, most journals are for-profit and charge >$1000 to publish your work (too much of which ends up being profit for the publishing company).
+
 ### Software
+
 * [JOSS](https://joss.theoj.org/).
   For open-source software: free to publish.
 
