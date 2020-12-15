@@ -33,6 +33,8 @@ Last semester, they voted on a “Panda Sanctuary”; the majority choice in thi
 It is then my challenge as a teacher to formulate a set of problems in the desired setting, and come good on my promise that physics skills are relevant and useful to solve problems in any setting.
 
 The students really enjoy this process; they build community through the process of coming up with candidate settings (chatting on canvas) and they said things like “can’t wait to see what you’ve cooked up for us in the exam!”.
+The students ended up solving problems set in a university bar, ranging from understanding phase transitions from dart-board throwing statistics, using complex network and bifurcation diagrams to reason about marketing strategies to attract students to the pub for a cheap-steak deal, and designing error-correcting neural networks for the pub's popular dinner orders.
+
 So while the exam is still a time-pressured assessment, infusing some creativity in the problems and having given the students some ownership over the exam, I think went some way towards easing the stresses (compared to a typical exam).
 
 
