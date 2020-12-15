@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Having fun in teaching"
+title: "Having fun when teaching"
 date: "2020-12-15 12:09:17 +1100"
 ---
-
-# Having fun in teaching
 
 If you were to ask an average citizen to think of a group of academics, they might be prone to conjuring up images of deep and serious thinkers immersed in dry, theoretical topics. Indeed, many academic conferences proceed with speakers performing their research using a more serious version of themselves than they might take on under more typical circumstances. This over-seriousness, sometimes stemming from a drive to impress one’s audience, makes the image of rows of audience members snoozing unsurprising.
 
