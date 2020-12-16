@@ -45,14 +45,15 @@ I have funding available to provide additional support to talented PhD students 
 You should apply for a Research Training Program (RTP) Scholarship, or a University of Sydney Postgraduate Award (UPA).
 
 #### Funding for International PhD Students
+
 International Scholarships for Australia (Research Training Program or University of Sydney International Scholarship) are especially competitive.
-High marks are a prerequisite for obtaining PhD funding; only applicants with a weighted average mean in excess of 80 (corresponding to a first-class honours) are considered.
+High marks are a prerequisite for obtaining PhD funding; only applicants with a weighted average mean in excess of 80 (corresponding to a first-class honours) are considered, and typically the threshold is far, far higher than this minimum.
 As well as high marks, students typically require some research experience (such as a published paper), and students from highly-ranked institutions can also have an advantage.
 
 Some details of the criteria used are [here](http://sydney.edu.au/scholarships/docsschols/Higher_Degree_by_Research_Scholarship_Selection_Process.pdf).
 Some additional examples of funding sources for postgraduate research study are [here](http://sydney.edu.au/scholarships/postgraduate/international-postgraduate-scholarships.shtml).
 Australia Awards are available for students from countries with which Australia has a bilateral aid program: [list of countries](https://dfat.gov.au/people-to-people/australia-awards/Pages/participating-countries.aspx).
-The [Endeavour Scholarship](https://internationaleducation.gov.au/scholarships/scholarships-and-fellowships/Pages/default.aspx is another one to look into.
+The [Endeavour Scholarship](https://internationaleducation.gov.au/scholarships/scholarships-and-fellowships/Pages/default.aspx) is another one to look into.
 There is also PhD funding for [Chinese nationals](https://sydney.edu.au/scholarships/e/china-scholarship-council-research-programs-scholarship.html).
 
 #### General funding sources
