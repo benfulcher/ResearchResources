@@ -17,11 +17,15 @@ But having a productive PhD experience often comes down to a strong supervisor-s
 It's important to:
 * respect the research content and style of your supervisor: read their papers and other outputs they've produced.
 * work productively and feel supported through your PhD candidature: if possible, do a short research project with the potential supervisor to get a feel for the relationship.
+* talk to the supervisor's past and current students to try to get an open and frank understanding of what being their student is like. For example, our group has [contact information for all past students](https://dynamicsandneuralsystems.github.io/team/).
 
 _All supervisors have positives and negatives_
 
-You should talk to the supervisor's past and current students to try to get an open and frank understanding of what being their student is like.
 Once you have a clear picture of what the positives and negatives of your potential supervisor are, make the judgement about whether that combination will suit your style and what you hope to get out of your PhD.
+
+A good supervisor will dedicate themselves to training their students to be the best scientists and humans that they can be.
+Their goals should be aligned with the students best interests, rather than their own.
+It's a good sign if your potential supervisor listens to the student and their goals and aspirations, and helps plan a research path that is best for the student (a bad sign if the supervisor doesn't mention alternatives to their research or apply pressure to work with them).
 
 ### Getting through a PhD
 
