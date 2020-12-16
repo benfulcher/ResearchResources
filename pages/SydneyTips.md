@@ -9,7 +9,7 @@ categories: material
 
 A summary, focused on longer-term stays, is [here](https://sydney.edu.au/campus-life/accommodation.html), with a [list of options for off-campus housing](https://sydney.studystays.com.au/).
 
-### Short-term stays
+### Short-term accommodation in Sydney
 
 Especially off-season, many of the residential colleges often have spare rooms that visitors can use. Try [emailing the accommodation team](mailto:accommodation.info@sydney.edu.au), or emailing specific colleges directly, e.g., from [this list](https://sydney.edu.au/campus-life/accommodation/live-on-campus/camperdown-darlington/residential-colleges.html) of current Sydney University colleges.
 
@@ -24,8 +24,11 @@ Cheaper options (including flat shares):
 * [Airbnb](https://www.airbnb.com.au)
 * There are also facebook groups like [this one](https://www.facebook.com/groups/1390345641220199/)
 
-## Stuff to do
-* Newtown is a fun area to explore. Campos does excellent coffee. Thier piccolo affogato is one of the best drinks in the world.
+<!-- ## Stuff to do
+
+Newtown is a fun area to explore.
+Campos does excellent coffee.
+Thier piccolo affogato is one of the best drinks in the world. -->
 
 ### Sydney in a day
 
@@ -34,9 +37,10 @@ Get a good spot on an outer deck and enjoy the ride over.
 From the terminal, walk towards Manly beach, grabbing fish and chips and eating on the beach.
 Have a swim, a couple beers at a beachside brewery, then ferry back for a drink at Circular Quay: Opera Bar for the views of the harbor, or a cocktail at Bulletin Place for cosy vibes.
 While around Circular Quay, you can also slot in some time at the Museum of Contemporary Art (MCA), Circular Quay, which for the cost of a coffee on the top floor, you can get some of the best elevated views of the harbor.
-If you’re near Wynyard, I always enjoy Uncle Ming’s for a whiskey and apple.
+If you're near Wynyard, I always enjoy Uncle Ming's for a whiskey and apple.
 
-### Classic walks:
+### Classic walks
+
 The classic harborside walks are those between Bondi, Bronte, and Coogee beaches.
 This coastal walk is one of the top things to do in Sydney.
 It’s really easy and well maintained but also really unique and beautiful.
