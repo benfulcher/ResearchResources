@@ -15,6 +15,7 @@ To make your work open access, most journals are for-profit and charge >$1000 to
 
 ### Computational Neuroscience
 
+#### Free/cheap
 * [NBDT](https://nbdt.scholasticahq.com/).
   Neurons, Behavior, Data Analysis and Theory.
   For computational neuroscience (data, behavior, theory, analysis, modeling).
@@ -22,10 +23,16 @@ To make your work open access, most journals are for-profit and charge >$1000 to
 * [MELBA](https://www.melba-journal.org/).
   The Journal of Machine Learning for Biomedical Imaging.
   (~free?).
+* [MNA](https://mna.episciences.org/).
+  Mathematical Neuroscience and Applications.
+  $0.
 * [Brain Multiphysics](https://www.journals.elsevier.com/brain-multiphysics/).
   $650/article in 2020 (increases up to double this in 2022).
+
+  #### Less so
 * [eLife](https://elifesciences.org/), $2.5k.
 * [Neuroscience Next](https://onlinelibrary.wiley.com/page/journal/26416557/) $5k (from 2021).
+
 
 ### General
 * [peerJ](https://peerj.com/) ~$1k publishing cost.

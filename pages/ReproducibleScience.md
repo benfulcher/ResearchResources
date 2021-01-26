@@ -35,10 +35,11 @@ That is, any move in the direction towards open and reproducible science (the tw
 For example, it is optimal to move from a closed coding language like Matlab to python or R or Julia (where anyone can run your code without relying on a proprietary licence and all underlying code can be verified and improved over time by the community).
 But if you code in Matlab, making your code available and reproducible is a very valuable first step.
 
-## Slides
+## Talk
 
 :thought_balloon: :thought_balloon: :thought_balloon:
-__I gave a short overview talk on implementing reproducible science practices; my slides are [here](https://figshare.com/articles/OHBM_Australia_A_practical_guide_to_working_reproducibly/12367667)__.
+I gave a short overview talk on implementing reproducible science practices.
+The video is on [Youtube](https://youtu.be/fUGIKuXwFFc?t=2847) and the slides from this talk are [here](https://figshare.com/articles/OHBM_Australia_A_practical_guide_to_working_reproducibly/12367667).
 :thought_balloon: :thought_balloon: :thought_balloon:
 
 ## Making scientific writing accessible
