@@ -60,7 +60,7 @@ For extra impact, you should cross-reference your work on [papers with code](htt
 
 ### Displaying your contributions in your CV
 
-You can acknowledge your efforts to make your work accessible by marking your openly accessible outputs in your CV, as described in [this blog post]({% post_url 2020-06-05-open-access-symbol-in-cv %}).
+You can acknowledge your efforts to make your work accessible by marking your openly accessible outputs in your CV, as described in [this blog post]({{ site.url }}{{ site.baseurl }}/2020-06-05-open-access-symbol-in-cv).
 
 ## Reproducible Coding
 
