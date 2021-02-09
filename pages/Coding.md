@@ -5,7 +5,8 @@ permalink: /Coding/
 ---
 
 ### Writing code
-You must use version control, as described [here](ReproducibleScience.html).
+
+You must use version control, as described [here]({{ site.url }}{{ site.baseurl }}/ReproducibleScience).
 
 #### Coding better
 
