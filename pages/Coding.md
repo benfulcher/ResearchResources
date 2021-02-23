@@ -4,25 +4,33 @@ title: "Coding"
 permalink: /Coding/
 ---
 
-### Writing code
+## Writing code
 
 You must use version control, as described [here]({{ site.url }}{{ site.baseurl }}/ReproducibleScience).
 
-#### Coding better
+### Coding better
 
 * Some helpful coding tips (mostly Matlab) are on this [medium blog](https://medium.com/@neuraljojo).
 
-#### Text editors
+### Text editors
 
 Full-featured text editors are necessary for efficient coding.
-I use [Atom](https://atom.io/) which has some nice features:
+
+#### [Atom](https://atom.io/)
+
+Atom has some nice features:
 * [Hydrogen](https://nteract.gitbooks.io/hydrogen/) and a python kernel for interactively running python code.
 * [Markdown previews](https://atom.io/packages/markdown-preview) are essential for writing markdown.
 * Natural git and github integration mean that you never need to leave the editor to do your basic git. There are also some nice keyboard shortcuts in [git+](https://atom.io/packages/git-plus).
 * [Time machine](https://atom.io/packages/git-time-machine) lets you interactively view the history of each file in your repository.
 * The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts).
 
-#### Terminals
+#### [VS Code](https://code.visualstudio.com)
+
+VS Code is a little more efficient than Atom, and has many of the same features (often more).
+- Like Hydrogen in Atom, you should use the [jupyter support](https://code.visualstudio.com/docs/python/jupyter-support-py)
+
+### Terminals
 
 * On Mac, [iTerm2](https://iterm2.com/) is free and far superior to the in-built terminal app.
 * :fire: If you are fancy, you can change to using the [fish shell](https://fishshell.com/), which has lots of cool features.
