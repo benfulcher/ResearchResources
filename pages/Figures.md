@@ -5,6 +5,7 @@ categories: material
 ---
 
 ### General
+
 * Generate figures algorithmically as much as possible, as clear scripts in an open code repository.
 * Know the difference between vector and bitmap graphics, and output your figures appropriately.
 * Aesthetic touch-ups can be made after exporting your figure, for vector graphics ([Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Affinity Designer](https://affinity.serif.com/en-gb/), or the free [Inkscape](https://inkscape.org/)) or bitmap graphics ([Adobe Photoshop](https://www.adobe.com/au/products/photoshop.html), or the free [GIMP](https://www.gimp.org/)).

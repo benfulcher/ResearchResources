@@ -13,8 +13,10 @@ Starting a PhD is a major undertaking: one is signing up to thinking about a top
 
 Of course it's very important to pick a research area you're passionate about.
 But having a productive PhD experience often comes down to a strong supervisor-student relationship.
+Here is a nice summary article: [Ten simple rules for choosing a PhD supervisor](https://doi.org/10.1371/journal.pcbi.1009330).
 
 It's important to:
+
 - respect the research content and style of your supervisor: read their papers and other outputs they've produced.
 - work productively and feel supported through your PhD candidature: if possible, do a short research project with the potential supervisor to get a feel for the relationship.
 - talk to the supervisor's past and current students to try to get an open and frank understanding of what being their student is like. For example, our group has [contact information for all past students](https://dynamicsandneuralsystems.github.io/team/).
@@ -63,18 +65,17 @@ There is also PhD funding for [Chinese nationals](https://sydney.edu.au/scholars
 
 #### General funding sources
 
-* An [IBM PhD fellowship](http://www.research.ibm.com/university/awards/phdfellowship.shtml) on high-throughput time-series analysis and machine learning.
-* A full list of research scholarship funding for Sydney University is [here](http://sydney.edu.au/scholarships/research/faculty/science.shtml).
+- An [IBM PhD fellowship](http://www.research.ibm.com/university/awards/phdfellowship.shtml) on high-throughput time-series analysis and machine learning.
+- A full list of research scholarship funding for Sydney University is [here](http://sydney.edu.au/scholarships/research/faculty/science.shtml).
 
 #### Preparing your application
+
 Details for admission into a PhD program at Sydney University are [here]https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html).
 Your PhD application will need to include [a research proposal](https://sydney.edu.au/campus-life/student-news/2017/05/30/how-to-write-a-research-proposal-for-a-strong-phd-application.html), which I will help you write around a specific research project, as well as two academic references.
-
-
 
 ### After a PhD
 
 It's useful to think about what types of futures your present might lead to.
 Some PhD graduates will pick a research career.
-* If you try for an independent fellowship, these are very competitive.
-Here is [a thorough list of opportunities](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/).
+- If you try for an independent fellowship, these are very competitive.
+Here is a [thorough list of opportunities](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/).
