@@ -17,6 +17,8 @@ categories: material
 
 You should select the color palette for your figures carefully, with a priority towards making the key pieces of science that you're trying to communicate as clear as possible.
 Be especially wary of common forms of [colorblindness](https://davidmathlogic.com/colorblind/), and giving some thought to how readable figures are in greyscale.
+There are tools for [simulating different types of colorblindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
+
 When using a continuous color scale, avoiding the colormap [`jet`](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/) will prevent incurring the wrath of passionate [jet fighters](https://github.com/smsaladi/jetfighter), who will direct you to [automatically 'fix'](https://fixthejet.ecrlife.org/) your colormap.
 
 * If you love a good :rainbow: rainbow :rainbow:, the [turbo colormap](https://gist.github.com/mikhailov-work/ee72ba4191942acecc03fe6da94fc73f) is a solid alternative to jet.
