@@ -32,6 +32,12 @@ It's a good sign if your potential supervisor listens to the student and their g
 ### Getting through a PhD
 
 A major reason why PhDs are difficult is that the skills that make a successful researcher are quite different to what make a good undergraduate student.
+For example:
+
+- A PhD is about building independence research skills that train you into being someone that others can trust for reliable, thoughtful, and carefully considered information.
+- In this pursuit, speed is far less important than accuracy: it's much better to think slowly and carefully than to be wrong.
+- It can be a terrifying transition to be primarily responsible for what you produce. Luckily you will have a supervisor and research team to support you, you have three years of practice, and with the right support, can bring a deeper depth of understanding and confidence.
+
 Here is some useful material on the challenges of research life:
 
 - [Importance of seeking out opportunities to feel stupid](http://jcs.biologists.org/content/121/11/1771)
