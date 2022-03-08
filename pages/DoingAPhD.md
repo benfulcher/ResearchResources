@@ -17,7 +17,8 @@ Here is a nice summary article: [Ten simple rules for choosing a PhD supervisor]
 
 It's important to:
 
-- respect the research content and style of your supervisor: read their papers and other outputs they've produced.
+- personally respect the research content and style of your supervisor: read their papers and other outputs they've produced.
+- be aligned in motivation—do the types of problems that excite your supervisor also excite you?
 - work productively and feel supported through your PhD candidature: if possible, do a short research project with the potential supervisor to get a feel for the relationship.
 - talk to the supervisor's past and current students to try to get an open and frank understanding of what being their student is like. For example, our group has [contact information for all past students](https://dynamicsandneuralsystems.github.io/team/).
 
@@ -83,5 +84,6 @@ Your PhD application will need to include [a research proposal](https://sydney.e
 
 It's useful to think about what types of futures your present might lead to.
 Some PhD graduates will pick a research career.
+
 - If you try for an independent fellowship, these are very competitive.
 Here is a [thorough list of opportunities](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/).
