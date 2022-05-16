@@ -43,6 +43,7 @@ Here is some useful material on the challenges of research life:
 
 - [Importance of seeking out opportunities to feel stupid](http://jcs.biologists.org/content/121/11/1771)
 - A reminder that [research requires different skills than you are taught in undergrad](http://jxyzabc.blogspot.com.au/2017/09/the-genius-fallacy.html).
+- Some advice for [being a scientist](https://doi.org/10.3945/an.114.007179).
 
 ## Doing a PhD with me at Sydney Uni
 

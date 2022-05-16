@@ -12,7 +12,7 @@ categories: organization
 Modern scientists must use an electronic lab notebook.
 These [Ten Simple Rules for Lab Notebooks](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385) give a good account of why.
 
-I use [Evernote](https://evernote.com/); alternatives are [OneNote](https://www.onenote.com/) and [labarchives](https://www.labarchives.com/).
+I use [Evernote](https://evernote.com/); alternatives are [Notion](https://www.notion.so/desktop), [OneNote](https://www.onenote.com/). [labarchives](https://www.labarchives.com/) is better for science (great versioning) but misses many other features.
 
 Much of being a creative scientist is managing time, and part of making effective use of time is keeping a comprehensive log of experiments, results, research meetings, seminar notes, general vague thoughts about research, etc.
 Electronic notebooks keep this information searchable, and allow you to look over previous results and reproduce them.

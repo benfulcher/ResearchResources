@@ -21,7 +21,8 @@ Multiple hypothesis testing:
 
 Linear Algebra:
 
-- [Introduction to eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+- [Introduction to eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/).
+- A nice [twitter thread](https://twitter.com/TivadarDanka/status/1504751979729285122) on interpreting matrix factorizations.
 
 Plotting:
 

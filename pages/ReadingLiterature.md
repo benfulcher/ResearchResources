@@ -27,5 +27,6 @@ On Mac/iOS, [Reeder](http://reederapp.com/) is a really nice one; [other options
 - [Zotero](https://www.zotero.org/) is the best reference manager available and is free. Essential add-ons:
   - [Better BibTex](https://retorque.re/zotero-better-bibtex/) (for workign with LaTeX, including automatically updating a corresponding .bib file for your full library), and
   - [ZotFile](http://zotfile.com/) (for synchronizing attachments via cloud storage, and working with tablets).
+- [Paperpile](https://paperpile.com/) looks good, especially for those working with Google Docs.
 - [Mendeley](https://www.mendeley.com) is a poor substitute.
 - [Readcube Papers](https://www.papersapp.com/) is clunky and buggy and charges a regular fee.
