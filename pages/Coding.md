@@ -11,6 +11,7 @@ You must use version control, as described [here]({{ site.url }}{{ site.baseurl 
 ### Coding better
 
 - Some helpful coding tips (mostly Matlab) are on this [medium blog](https://medium.com/@neuraljojo).
+- And >20h of tutorials, including version control by Jeremy Howard, on [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM).
 
 ### Text editors
 

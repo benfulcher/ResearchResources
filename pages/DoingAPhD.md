@@ -22,8 +22,7 @@ It's important to:
 - work productively and feel supported through your PhD candidature: if possible, do a short research project with the potential supervisor to get a feel for the relationship.
 - talk to the supervisor's past and current students to try to get an open and frank understanding of what being their student is like. For example, our group has [contact information for all past students](https://dynamicsandneuralsystems.github.io/team/).
 
-_All supervisors have positives and negatives_
-
+All supervisors have positives and negatives.
 Once you have a clear picture of what the positives and negatives of your potential supervisor are, make the judgement about whether that combination will suit your style and what you hope to get out of your PhD.
 
 A good supervisor will dedicate themselves to training their students to be the best scientists and humans that they can be.
@@ -41,7 +40,8 @@ For example:
 
 Here is some useful material on the challenges of research life:
 
-- [Importance of seeking out opportunities to feel stupid](http://jcs.biologists.org/content/121/11/1771)
+- [Importance of learning to be comfortable feeling stupid](https://doi.org/10.1242/jcs.033340).
+- [Importance of seeking out opportunities to feel stupid](http://jcs.biologists.org/content/121/11/1771).
 - A reminder that [research requires different skills than you are taught in undergrad](http://jxyzabc.blogspot.com.au/2017/09/the-genius-fallacy.html).
 - Some advice for [being a scientist](https://doi.org/10.3945/an.114.007179).
 
