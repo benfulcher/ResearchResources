@@ -9,6 +9,7 @@ categories: material
 Computational Neuroscience and general skills
 
 - [Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html).
+- [What is computational neuroscience? Written by the Rajan Lab](https://www.rajanlab.com/faq).
 
 Dimensionality reduction:
 
@@ -22,7 +23,7 @@ Multiple hypothesis testing:
 Linear Algebra:
 
 - [Introduction to eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/).
-- A nice [twitter thread](https://twitter.com/TivadarDanka/status/1504751979729285122) on interpreting matrix factorizations.
+- A nice [twitter thread](https://twitter.com/TivadarDanka/status/1504751979729285122) on interpreting matrix factorizations, and associated [webpage](https://tivadardanka.com/blog/everything-about-matrix-factorizations) unrolling the tweets.
 
 Plotting:
 

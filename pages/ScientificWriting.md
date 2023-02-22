@@ -9,9 +9,13 @@ title: "Scientific Writing"
 Writing a good abstract is crucial---the vast majority of people are time-strapped and, if they get past your title, this is as much as they will read of your work.
 So writing a clear statement of what you have done and how it impacts key open questions in a widely accessible way, is super important.
 
+#### Structuring a paper
+
+- [This article](https://doi.org/10.1371/journal.pcbi.1005619), provides a strong foundation for structuring a paper across 10 Simple Rules.
+
 #### Writing an abstract
 
-[This Nature template](https://www.nature.com/documents/nature-summary-paragraph.pdf) for how to structure an abstract is very informative.
+- [This Nature template](https://www.nature.com/documents/nature-summary-paragraph.pdf) for how to structure an abstract is very informative.
 
 #### Writing a grant
 
