@@ -116,15 +116,17 @@ A good way to do this is to describe all your analyses in a markdown file, like 
 When you're happy with your code, you should version it with a DOI to keep a preserved snapshot that cannot be modified/deleted.
 It's actually really easy to do this, by linking zenodo to your Github (and you get a nice DOI logo on your repo!): [instructions here](https://guides.github.com/activities/citable-code/).
 
+If you're really into it, building a Docker container for your project allows full reproduction into the future, regardless of changes to operating systems or software packages. See [Aria's notes](https://docs.google.com/document/d/1Um6sVef3JXVXYfmC5dYaHtGLc5Oi9W7sWSTv6fd8hzc/) and this [Simple Rules paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316).
+
 ## Sharing data
 
-* [Zenodo](https://zenodo.org/signup/) is a good way to upload scientific datasets, providing a citable DOI to your data.
-* [figshare](https://figshare.com) is a poorly designed alternative, but also provides a citable DOI to your data.
-* Another option is [Dryad](https://datadryad.org/stash).
-* To pick the right data repository for your paper, you can use the registry of research data repositories: [re3data](https://www.re3data.org/) or [FAIRsharing](https://fairsharing.org/).
+- [Zenodo](https://zenodo.org/signup/) is a good way to upload scientific datasets, providing a citable DOI to your data.
+- [figshare](https://figshare.com) is a poorly designed alternative, but also provides a citable DOI to your data.
+- Another option is [Dryad](https://datadryad.org/stash).
+- To pick the right data repository for your paper, you can use the registry of research data repositories: [re3data](https://www.re3data.org/) or [FAIRsharing](https://fairsharing.org/).
 
 ## Getting involved
 
-* Join the [Australia/New Zealand Open Research Network](https://www.anzopenresearch.org/), including the [Sydney chapter](https://sydneyopenresearch.org/).
-* Join a [Reproducibilitea](https://reproducibilitea.org/) journal club.
-* Follow some open science twitter accounts, e.g., this [open access Aus/NZ advocacy](https://twitter.com/openaccess_anz).
+- Join the [Australia/New Zealand Open Research Network](https://www.anzopenresearch.org/), including the [Sydney chapter](https://sydneyopenresearch.org/).
+- Join a [Reproducibilitea](https://reproducibilitea.org/) journal club.
+- Follow some open science twitter accounts, e.g., this [open access Aus/NZ advocacy](https://twitter.com/openaccess_anz).
