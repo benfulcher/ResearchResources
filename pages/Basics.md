@@ -5,7 +5,6 @@ permalink: /basics/
 categories: material
 ---
 
-
 Computational Neuroscience and general skills
 
 - [Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html).
