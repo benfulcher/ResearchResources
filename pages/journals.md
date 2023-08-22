@@ -19,6 +19,8 @@ Note that Sydney University has [Read and Publish Agreements](https://caul.libgu
 
 #### Free/cheap
 
+- [Journal of Physics: Complexity](https://iopscience.iop.org/journal/2632-072X).
+    Open access and publication charge paid for as part of Australian Uni agreement.
 - [NBDT](https://nbdt.scholasticahq.com/).
   Neurons, Behavior, Data Analysis and Theory.
   For computational neuroscience (data, behavior, theory, analysis, modeling).
@@ -34,8 +36,9 @@ Note that Sydney University has [Read and Publish Agreements](https://caul.libgu
 
   #### Less so
 
-* [eLife](https://elifesciences.org/), $2.5k.
-* [Neuroscience Next](https://onlinelibrary.wiley.com/page/journal/26416557/) $5k (from 2021).
+- [Physical Review X Life](https://journals.aps.org/prxlife/)
+- [eLife](https://elifesciences.org/), $2.5k.
+- [Neuroscience Next](https://onlinelibrary.wiley.com/page/journal/26416557/) $5k (from 2021).
 - [PLoS Complex Systems](https://plos.org/complex-systems-research-journal/).
 
 ### General
