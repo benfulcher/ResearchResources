@@ -25,10 +25,6 @@ So writing a clear statement of what you have done and how it impacts key open q
 
 You can more easily make tables in LaTeX using this [online editor](https://www.tablesgenerator.com/).
 
-### Publishing
-
-You can find suitable journals for your work using the [JournalFinder App](https://journalfinder.researcher-app.com/).
-
 ### General structure
 
 - A general template for structuring a scientific argument is to first explain the problem, then the solution, then the results, then the implications.
@@ -39,12 +35,28 @@ Avoid going backwards, e.g., explaining what method was applied and then afterwa
 
 - Write clearly and without bias or hype, in a neutral tone. It's important to be interesting and compelling, but never at the expense of accuracy.
 Read [this](https://elifesciences.org/articles/88654) for elaboration.
+- Give clear context and motivation for what you are doing and why.
+For example, opening a section with "We first outline X" assumes that the reader knows why X is important and how it relates to the rest of the paper.
+- Whenever you write "this" or "these", make sure it's crystal clear to the reader what "it" refers to, and clarify/spell it out if in doubt.
 
 ## Some 'house' rules/tips
 
 - Use the Oxford comma.
-- Don't put a reference to a figure/table in parentheses unless it's _super obvious_ what the reader is supposed to get from it. Better practice is to introduce it clearly, and tell the reader what they should expect to see there (in the case of a figure), e.g., "(this concept is illustrated in Fig. 1A)".
+- Avoid somewhat vague words like 'framework'.
+- Use active voice. E.g., instead of "we provide a detailed description of X", it's much clearer to write: "we describe X in detail".
+
+### Figures and Captions
+
 - Shorten "Figure" to "Fig." and "Figures" to "Figs" when not at the start of a sentence.
+- Don't put a reference to a figure/table in parentheses unless it's _super obvious_ what the reader is supposed to get from it.
+Better practice is to introduce it clearly, and tell the reader what they should expect to see there (in the case of a figure), e.g., "(this concept is illustrated in Fig. 1A)".
+- The reader will not look at the figure unless told to—the main text should introduce the figure and all of its panels in the appropriate context of drawing on the evidence shown there to build/support your scientific argument.
+
+- The first line of a caption should (where possible) be a short, descriptive take-away message from the figure (e.g., a scientific claim that the figure supports).
+Relative to a neutral, descriptive title, this can be very helpful for the reader to know what the results in the figure are being used as evidence for.
+- The rest of the caption should describe what is shown in the figure, and contain enough information to be able to understand the axes and plot elements, etc.
+But it is not a place to describe the results or their implications---this is what the main text is for.
+
 
 ### Numbers
 

@@ -6,7 +6,9 @@ categories: material
 ---
 
 To get your work peer-reviewed, you need to submit it to a journal.
-To make your work open access, most journals are for-profit and charge >$1000 to publish your work (too much of which ends up being profit for the publishing company).
+To make your work open access, most journals are for-profit and charge >$1000 to publish your work (including a substantial portion being directed scientific funding to massive profits for publishing companies).
+
+You can find suitable journals for your work using the [JournalFinder App](https://journalfinder.researcher-app.com/).
 
 Note that Sydney University has [Read and Publish Agreements](https://caul.libguides.com/c.php?g=941498&p=6840300) which covers article processing charges for many major journals.
 
