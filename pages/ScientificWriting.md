@@ -65,9 +65,11 @@ Separate the unit with a small-space `\,` in Latex, e.g., `3\,m`, or using optio
 
 ### Precision
 
-Think about the number of significant figures that you report your measurements to.
+- Phrase ideas precisely, avoiding ambiguity. For example, "we conducted experiments on __various__ simulated dynamical processes" (clearer as "we conducted experiments on three simulated processes: (i) …"). Look out for words like "various" or "around" or "like" of "few" or "small" or "low" or "high" and check whether they could be made more precise.
+- Avoid words like "would" or "could" or "can" when talking about what was done.
+Instead, use "we did X" or "we applied Y" or "we used Z".
+- Think about the number of significant figures that you report your measurements to.
 Do not specify a quantity to greater precision than the order of magnitude of error in the measurement of that quantity.
-
 - If you have an error associated with a measurement, (3.421 +/- 0.5), this tells you explicitly where the precision of the measurement is irrelevant: 3.4 +/- 0.5.
 - _p_-values should be reported to one significant figure (e.g., 0.04, not 0.037621). Ain't no one be caring about further precision.
 
