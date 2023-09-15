@@ -11,6 +11,7 @@ permalink: /career/
 - Job postings at [jobRxiv](https://jobrxiv.org).
 - Computational neuroscience mailing list has good ones: [here](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro).
 - Massive list of neuro postdocs is from [JHU](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/).
+- [NeuroEng Australia](https://neuroeng.asn.au/) also has a mailing list and job postings.
 
 ## Fellowships
 
