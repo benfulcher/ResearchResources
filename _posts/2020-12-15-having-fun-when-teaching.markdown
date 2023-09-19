@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Having fun when teaching"
+title: "Teaching experience"
 date: "2020-12-15 12:09:17 +1100"
 ---
 
