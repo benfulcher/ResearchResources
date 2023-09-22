@@ -76,19 +76,19 @@ These repositories can also be uploaded to a server to allow collaboration on co
 Version control is much easier with a graphical interface than in the command-line.
 This is the place to start--you can do everything you need, and visually see the whole history of your code base.
 
-* I recommend the free and excellent [SourceTree](https://www.sourcetreeapp.com).
-* [GitKraken](https://www.gitkraken.com/) is also really good.
-* An alternative is [Github Desktop](https://desktop.github.com).
+- I recommend [GitKraken](https://www.gitkraken.com/), which provides free educational accounts.
+- The free (for everyone) [SourceTree](https://www.sourcetreeapp.com) is also really good.
+- An alternative is [Github Desktop](https://desktop.github.com).
 
 #### Command-line git
 
 On a server, such as for a compute cluster, you must run git in the command-line.
-* Here is a quick [introduction article](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) to version control using Git.
-* Some nice tutorials for this have been written by [Atlassian](https://www.atlassian.com/git/).
+- Here is a quick [introduction article](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) to version control using Git.
+- Some nice tutorials for this have been written by [Atlassian](https://www.atlassian.com/git/).
 
 Basics:
-* Commit regularly
-* Focus on text files, like code, where changes can be stored efficiently.
+- Commit regularly
+- Focus on text files, like code, where changes can be stored efficiently.
    Avoid binary files (datasets, image files, etc.) that will bloat your repository.
    (Use the `.gitignore` file).
 
@@ -101,8 +101,9 @@ Then you can share what you've done so others can help you develop it through co
 2. The first time you set up git, you should generate an ssh key to bypass having to type your username and password with every push to GitHub.
 Instructions are [here](https://help.github.com/articles/generating-an-ssh-key/).
 This means that you should use the ssh (not http) version of the Github repository reference: `git clone git@github.com:benfulcher/TestGitRepository.git`
-* You should also set up integration with a text editor for coding is perhaps the most useful.
-  I recommend [Atom](https://atom.io/); [Microsoft VS Code](https://code.visualstudio.com/) is a popular alternative.
+- You should also set up integration with a text editor for coding is perhaps the most useful.
+  I recommend [VS Code](https://code.visualstudio.com/).
+  [Atom](https://atom.io/) is an alternative you may also consider.
 
 #### Workflow
 
@@ -114,7 +115,7 @@ Code to reproduce every analysis and figure in your paper should be easy for oth
 A good way to do this is to describe all your analyses in a markdown file, like the online-rendered `README.md` file, where you work through the exact steps to reproduce every analysis in your paper, and embed the outputs.
 
 When you're happy with your code, you should version it with a DOI to keep a preserved snapshot that cannot be modified/deleted.
-It's actually really easy to do this, by linking zenodo to your Github (and you get a nice DOI logo on your repo!): [instructions here](https://guides.github.com/activities/citable-code/).
+It's actually really easy to do this, by linking Zenodo to your Github (and you get a nice DOI logo on your repo!): [instructions here](https://guides.github.com/activities/citable-code/).
 
 If you're really into it, building a Docker container for your project allows full reproduction into the future, regardless of changes to operating systems or software packages. See [Aria's notes](https://docs.google.com/document/d/1Um6sVef3JXVXYfmC5dYaHtGLc5Oi9W7sWSTv6fd8hzc/) and this [Simple Rules paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316).
 
