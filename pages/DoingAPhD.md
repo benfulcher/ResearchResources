@@ -35,6 +35,7 @@ A major reason why PhDs are difficult is that the skills that make a successful 
 For example:
 
 - A PhD is about building independence research skills that train you into being someone that others can trust for reliable, thoughtful, and carefully considered information.
+    - You can see the University of Sydney's list of PhD qualities [here](https://www.sydney.edu.au/students/graduate-qualities/phd-qualities.html).
 - In this pursuit, speed is far less important than accuracy: it's much better to think slowly and carefully than to be wrong.
 - It can be a terrifying transition to be primarily responsible for what you produce. Luckily you will have a supervisor and research team to support you, you have three years of practice, and with the right support, can bring a deeper depth of understanding and confidence.
 
