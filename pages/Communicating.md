@@ -8,7 +8,7 @@ Presenting your work is a key part of being a scientist, and it requires careful
 
 Here is a useful image from [Itai Yanai](https://twitter.com/ItaiYanai) that helps depict a key difference between doing science and communicating science:
 
-![Itai Yanai's image]({{ site.url }}/{{ site.baseurl }}/assets/DoingVsPresenting.jpg)
+![Itai Yanai's image]({{ site.url }}/{{ site.baseurl }}/img/DoingVsPresenting.jpg)
 
 # Making posters
 
