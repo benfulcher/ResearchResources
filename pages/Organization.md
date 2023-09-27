@@ -19,15 +19,16 @@ Electronic notebooks keep this information searchable, and allow you to look ove
 
 Some tips:
 
-* Date every entry.
-* Copy and paste outputs of your analysis or code to keep a record of your research outputs as you produce them. Easy as a screenshot (on Mac: cmd-cntrl-shift-4 and then paste cmd-v).
-* Copy the code of the functions and their inputs that you use to generate your outputs, to allow you to reproduce what you've done. Works best with version control.
-* Tagging notes allows you to prioritize your time between tasks across multiple projects that require attention. I use `1-Now`, `2-Next`, `3-Soon`.
+- Date every entry.
+- Copy and paste outputs of your analysis or code to keep a record of your research outputs as you produce them. Easy as a screenshot (on Mac: cmd-cntrl-shift-4 and then paste cmd-v).
+- Copy the code of the functions and their inputs that you use to generate your outputs, to allow you to reproduce what you've done. Works best with version control.
+- Tagging notes allows you to prioritize your time between tasks across multiple projects that require attention. I use `1-Now`, `2-Next`, `3-Soon`.
 
 ## Keeping track of your projects
 
-[Trello](https://trello.com/) is good for keeping track of multiple tasks.
-I always keep a main Trello board of all scientific projects I'm working on, organized across boards like: `backburner`, `student`, `current`, through to `submitted`, `in review`, and `published`.
+- [Trello](https://trello.com/) is good for keeping track of multiple tasks.
+I keep a main Trello board of all scientific projects I'm working on, organized across boards like: `backburner`, `student`, `current`, through to `submitted`, `in review`, and `published`.
+- [TickTick](https://ticktick.com/) is a good to-do list app that allows you to set due dates and reminders.
 
 <!-- ## Dividing tasks across a team
 
