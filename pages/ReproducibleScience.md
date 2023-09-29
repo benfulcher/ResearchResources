@@ -92,7 +92,7 @@ Basics:
    Avoid binary files (datasets, image files, etc.) that will bloat your repository.
    (Use the `.gitignore` file).
 
-### Github
+### GitHub
 
 If you're up and using git locally, [GitHub :octocat:](github.com) is a free (for education) service that allows you to host your code.
 Then you can share what you've done so others can help you develop it through collaboration, or can exactly reproduce the steps of your analysis as outlined in your code.

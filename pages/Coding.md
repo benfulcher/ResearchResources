@@ -21,9 +21,9 @@ Full-featured text editors are necessary for efficient coding.
 
 VS Code is a full featured and efficient integrated text editor for coding.
 
-- Like Hydrogen in Atom, you should use the [jupyter support](https://code.visualstudio.com/docs/python/jupyter-support-py)
+- You should use the [jupyter support](https://code.visualstudio.com/docs/python/jupyter-support-py)
 
-#### [Atom](https://atom.io/)
+<!-- #### [Atom](https://atom.io/)
 
 Atom is a little clunkier than VS Code, but has mostly similar features if you prefer it:
 
@@ -31,7 +31,7 @@ Atom is a little clunkier than VS Code, but has mostly similar features if you p
 - [Markdown previews](https://atom.io/packages/markdown-preview) are essential for writing markdown.
 - Natural git and github integration mean that you never need to leave the editor to do your basic git. There are also some nice keyboard shortcuts in [git+](https://atom.io/packages/git-plus).
 - [Time machine](https://atom.io/packages/git-time-machine) lets you interactively view the history of each file in your repository.
-- The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts).
+- The pain of merge conflicts is eased by [this package](https://atom.io/packages/merge-conflicts). -->
 
 ### Terminals
 
@@ -41,7 +41,7 @@ Atom is a little clunkier than VS Code, but has mostly similar features if you p
 
 ### Cluster computing
 
-- ***ALL*** code on a cluster should be a clone of a git repository on Github.
+- ***ALL*** code on a cluster should be a clone of a git repository on GitHub.
   You should have another clone on a local computer that you can edit, and keep all versions synchronized through push/pull.
   You never want to have any risk of versions of the same code becoming out of synch.
 - As well on your local computer, you should take the time to set up an [ssh-key](https://help.github.com/articles/generating-an-ssh-key/) for Github on the server, to avoid typing in your password each time.
@@ -50,7 +50,12 @@ Atom is a little clunkier than VS Code, but has mostly similar features if you p
 - You should set up an [ssh key](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2) for each server you use regularly, to avoid typing in your password every time you connect.
 - To avoid typing in the full username and servername every time you connect to your server, you set up an [ssh config file](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/).
 
-## Languages
+## Software on GitHub
+
+- You should make a DOI on Zenodo for any software that you release on GitHub.
+- You could consider a workflow for tracking views and download statistics, as described [here](https://github.com/jgehrcke/github-repo-stats/wiki/Tutorial).
+
+<!-- ## Languages
 
 - People get worked up about coding languages, but it's usually about picking a solution that works for what you want to do, and often comes down to personal preference.
 - Open source languages are preferable in the longer-term (like Python, Julia, R) than proprietary ones (like Matlab).
@@ -72,4 +77,4 @@ Atom is a little clunkier than VS Code, but has mostly similar features if you p
 - Matlab is great for science, because of the ease of turning data into interactive plots through just a few simple commands.
     - This allows you to quickly get a deep feel for your data, and the documentation and depth of functionality through toolboxes is excellent.
 - Unfortunately, it is not open source (you don't know what's happening under the hood) and you have to pay to use it (only those who have paid access can use your code if you share it).
-    - This is a major limitation for science, as it impinges on one's ability to share their work, and can also lead to the strange phenomenon in which you yourself are locked out of running software that you created (e.g., if you leave a University which gave you Matlab access).
+    - This is a major limitation for science, as it impinges on one's ability to share their work, and can also lead to the strange phenomenon in which you yourself are locked out of running software that you created (e.g., if you leave a University which gave you Matlab access). -->
