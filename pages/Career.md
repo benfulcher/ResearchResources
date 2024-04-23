@@ -30,3 +30,7 @@ Similarly with [travelling fellowships](https://www.science.org.au/opportunities
 
 - [This twitter thread](https://twitter.com/tangming2005/status/1619350840174682112?s=20) has some relevant resources.
 - A [ten simple rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) to being a PI.
+
+## Writing grants
+
+- [Here are some nice tips for writing grants/fellowships](https://www.nature.com/articles/d41586-023-03871-0).

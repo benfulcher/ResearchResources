@@ -33,10 +33,10 @@ Note that Sydney University has [Read and Publish Agreements](https://caul.libgu
 
 #### Less so
 
-- [PLoS Complex Systems](https://plos.org/complex-systems-research-journal/).
-- [Physical Review X Life](https://journals.aps.org/prxlife/)
+- [npj Complexity](https://www.nature.com/npjcomplex/). $2590.
+- [PLoS Complex Systems](https://plos.org/complex-systems-research-journal/). $2926.
+- [Physical Review X Life](https://journals.aps.org/prxlife/). $3450 (from 2025–).
 - [eLife](https://elifesciences.org/), $2.5k.
-- [Neuroscience Next](https://onlinelibrary.wiley.com/page/journal/26416557/) $5k (from 2021).
 
 ### General
 

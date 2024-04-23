@@ -43,7 +43,7 @@ For example, opening a section with "We first outline X" assumes that the reader
 
 - Use the Oxford comma.
 - Avoid somewhat vague words like 'framework'.
-- Use active voice. E.g., instead of "we provide a detailed description of X", it's much clearer to write: "we describe X in detail".
+- Use active voice. E.g., instead of "we provide a detailed description of X", it's much clearer to write: "we describe X in detail". Instead of "X is observable" or "X can be observed", say instead "we observed X".
 
 ### Figures and Captions
 
