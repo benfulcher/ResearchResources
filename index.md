@@ -5,8 +5,8 @@
 layout: home
 ---
 
-This is a collection of resources that I find useful to collate for myself and to point students to.
-I would very much appreciate any feedback or additions, either by email or via pull requests.
+This content has moved to GitBook [here](https://time-series-features.gitbook.io/research-resources/).
+
 You can see my website [here](http://www.benfulcher.com).
 
 <!-- [Basics]({{ site.baseurl }}{% link pages/Basics.md %})
